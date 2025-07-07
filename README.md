@@ -51,7 +51,6 @@ Professionnel de l’informatique avec plus de 5 ans d'expérience, je conçois 
 
 - 💼 [LinkedIn](https://linkedin.com/in/pascal-kabore)
 - 📧 pascal.kabore@example.com
-- 🌐 [Mon site pro](https://monsite.com) *(à venir)*
 
 ---
 
