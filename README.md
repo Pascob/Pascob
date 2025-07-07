@@ -27,9 +27,6 @@ Professionnel de l’informatique avec plus de 5 ans d'expérience, je conçois 
 
 ## 📁 Projets
 
-### 💡 [Un Plan, Un Budget, Un Rapport (PBUR)](https://github.com/tonrepo/pbur) *(projet confidentiel)*
-➡️ Application web pour la planification et le suivi des ressources dans le secteur de la santé publique au Burkina Faso.
-
 ### 🏥 Système d'information CNSS (Niger)
 ➡️ Développement de modules de gestion métier, formation des utilisateurs, et suivi post-déploiement en collaboration avec A2SYS Consulting.
 
@@ -46,7 +43,7 @@ Professionnel de l’informatique avec plus de 5 ans d'expérience, je conçois 
 - ✅ Microsoft Azure AI Fundamentals (AI-900)  
 - ✅ Microsoft Data Fundamentals (DP-900)  
 - 🔜 ITIL 4 Foundation  
-- 🔜 Azure Solutions Architect (AZ-305)
+- 🔜 Cobit 2019
 
 ---
 
